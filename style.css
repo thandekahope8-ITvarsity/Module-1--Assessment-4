@@ -1,0 +1,25 @@
+th{
+    font-weight: bolder;
+}
+table{
+    font-style: italic;
+    border: 0in;
+    font-size: 30px;
+}
+th{
+    font-weight: bolder;
+    background-color: blueviolet;
+    color: rgb(215, 238, 130);
+}
+td{
+    font-weight: bold;
+    background-color: blueviolet;
+    color: violet;
+}
+h2{
+    font-weight: bolder;
+    font: size 30px; ;
+    font-style: italic;
+    color: blueviolet;
+    
+}
